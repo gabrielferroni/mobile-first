@@ -1,0 +1,2 @@
+# mobile-first
+ Na estilização da página de cadastro, utilizei um conjunto de ferramentas e abordagens modernas para criar um layout responsivo e visualmente agradável. Aproveitei as vantagens do Sass, Flexbox, Layout Grid e Mobile First para garantir uma experiência otimizada tanto para dispositivos móveis quanto para telas maiores. Combinando essas ferramentas, pude criar um design flexível e organizado, oferecendo aos usuários uma forma eficiente e atraente de se cadastrar.
